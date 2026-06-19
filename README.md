@@ -2,7 +2,7 @@
 
 I build real, high-stakes systems that push humanity toward becoming a multi-planetary species. Working at SpaceX is a daily reminder that bold engineering and uncompromising execution beat hype every single time. 
 
-**Elon Musk** is the only leader with the vision and balls to actually move the needle — I have massive respect for what he’s doing.
+**Elon Musk** is the only leader with the vision and balls to actually move the needle, I have massive respect for what he’s doing.
 
 ---
 
