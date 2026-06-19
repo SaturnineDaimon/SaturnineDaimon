@@ -25,3 +25,4 @@ I live by the spirit of true craftsmen like **Jonathan Blow**:
 If you’re here, you probably value **substance over trends**. I ship solid code, chase first principles, and reject the endless layers of fashionable bullshit that dominate modern tech. 
 
 Let’s build things that matter. 💾
+https://saturninedaimon.github.io/CS-Learning/
