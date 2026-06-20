@@ -26,3 +26,5 @@ If you’re here, you probably value **substance over trends**. I ship solid cod
 
 Let’s build things that matter. 💾
 https://saturninedaimon.github.io/CS-Learning/
+
+Catholic, Nietzchean, and Evolian. 
